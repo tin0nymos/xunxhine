@@ -1,6 +1,4 @@
- I’m tinonymouz
- interested in ethical hacking
- I’m currently learning penetration testing
+Pentester
 
 
 <!---
